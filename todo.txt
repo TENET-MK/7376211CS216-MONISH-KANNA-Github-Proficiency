@@ -2,3 +2,4 @@
 2) OSCP
 3) CISSP
 4) CISM
+5) OSEE
